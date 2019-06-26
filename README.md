@@ -8,7 +8,7 @@ calculations.py are automated calculations using Kepler's laws, and orbit_plot.p
 
 Also attached is a slideshow that was used to present at a symposium.
 
-# Images
+## Images
 An example output of orbit_plot.py.
 
 ![plot](images/orbit.jpg)
